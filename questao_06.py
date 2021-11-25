@@ -7,4 +7,4 @@ valorParcela = casa/parcelas
 if(valorParcela > porcetagemSalario):
     print("Emprestimo recusado :(")
 else:
-    print(f'Emprestimo aprovado! :) você pagará R${casa:.3f} em {parcelas} vezes de {valorParcela:.2f}')
+    print(f'Emprestimo aprovado! :) você pagará R${casa:.2f} em {parcelas} vezes de {valorParcela:.2f}')
